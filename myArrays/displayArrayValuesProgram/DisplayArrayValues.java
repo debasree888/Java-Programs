@@ -2,7 +2,7 @@
 // and accepts ‘n’ number of integers from the user
 // and display all the values from an array
 
-package myArrays;
+package myArrays.displayArrayValuesProgram;
 
 import java.util.Scanner;
 
