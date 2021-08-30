@@ -30,5 +30,4 @@ Sample Output 1
 
 83
 
-Skip User Notes
-User Notes
+
